@@ -1,0 +1,22 @@
+{
+    "name": "FAQs: Football",
+    "short_name": "FAQs",
+    "description": "Second Submission Dicoding - MPWA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#8DE4ED",
+    "theme_color": "#8DE4ED",
+    "icons": [
+        {
+            "src": "assets/images/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },  
+        {
+            "src": "assets/images/favicon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],   
+    "gcm_sender_id": "323850420595"
+}
