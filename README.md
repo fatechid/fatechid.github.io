@@ -1,6 +1,6 @@
 # Submission with football-data.org 
 
-<p align="right">
+<p align="center">
   <a href="http://beta.fatechid.com/">
     <img src="https://beta.fatechid.com/favicon-192x192.png" width="150">
   </a>
