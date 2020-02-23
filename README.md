@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://beta.fatechid.com/">
-    <img src="https://beta.fatechid.com/favicon-192x192.png" width="150">
+    <img src="https://beta.fatechid.com/FAQs-Football.PNG" width="150">
   </a>
 </p>
 
