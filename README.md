@@ -1,4 +1,4 @@
-# Submission with football-data.org 
+# Submission with football-data.org API
 
 <p align="center">
   <a href="http://beta.fatechid.com/">
